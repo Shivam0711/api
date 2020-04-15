@@ -1,5 +1,12 @@
 # api
 
+This folder contains 4 files:-
+
+  1)db.inc.php- It contains all the information of a mysql database.
+  2)class.DB.php- It contains necessary function for database connection and query execution.
+  3)createuser.php - This is used to create a new user.
+  4)getuser.php - This is used to fetch a user from database using its user id.
+
 This api contains two api functions namely "createuser" and "getuser"
 
 How to use createuser REST API (This api is used to create a user):-
