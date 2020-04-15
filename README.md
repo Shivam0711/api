@@ -10,7 +10,7 @@ How to use createuser REST API (This api is used to create a user):-
     3)If the user is created successfully it will return the user and its unique id in a json object.
     4)If the user is not created suceesfully it will return an error message "Could not create the user".
    
- How to use geteuser REST API (This api is used to fetch a user from database):-
+ How to use getuser REST API (This api is used to fetch a user from database):-
     
     1)Use POSTMAN Software for testing createuser.
     2)Send the api password "apipassword" as a post data in a key value pair.The password is "123456" otherwise it will retuen an error         "wrong api password".
