@@ -1,5 +1,7 @@
 # api
 
+***ALl the codes are written in Php Language.So u need to use a server software to run it such as WAMP server or XAMPP.***
+
 This folder contains 4 files:-
 
   1)db.inc.php- It contains all the information of a mysql database.
